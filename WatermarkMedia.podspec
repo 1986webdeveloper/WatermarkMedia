@@ -18,7 +18,7 @@ s.summary          = 'iOS watermark library'
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
 s.description      = <<-DESC
-MediaWatermark is a GPU/CPU-based iOS watermark library for overlays adding to video or images
+WatermarkMedia is a GPU/CPU-based iOS watermark library for overlays adding to video or images
 DESC
 
 s.homepage         = 'https://github.com/1986webdeveloper/WatermarkMedia'
