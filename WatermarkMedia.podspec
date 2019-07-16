@@ -28,7 +28,7 @@ s.source           = { :git => 'https://github.com/1986webdeveloper/WatermarkMed
 
 s.ios.deployment_target = '9.0'
 
-s.source_files = 'WatermarkMedia/**/*'
+s.source_files = 'WatermarkMedia/Classes/**/*'
 
 s.frameworks = 'UIKit'
 s.swift_version = '5.0'

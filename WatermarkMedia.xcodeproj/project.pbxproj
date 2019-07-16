@@ -85,7 +85,6 @@
 			isa = PBXGroup;
 			children = (
 				C88F073D22DD91CB00CEA0EB /* Classes */,
-				C88F073522DD91B900CEA0EB /* WatermarkMedia.h */,
 				C88F073622DD91B900CEA0EB /* Info.plist */,
 			);
 			path = WatermarkMedia;
@@ -94,6 +93,7 @@
 		C88F073D22DD91CB00CEA0EB /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				C88F073522DD91B900CEA0EB /* WatermarkMedia.h */,
 				C88F073E22DD91CB00CEA0EB /* Filters */,
 				C88F074A22DD91CB00CEA0EB /* Core */,
 				C88F075022DD91CB00CEA0EB /* Extensions */,
